@@ -1,2 +1,11 @@
-# Storm-Kafka-Cluster
-Vagrant project to setup a cluster with Storm and Kafka installed .
+
+### Example project to setup Kafka, Storm cluster 
+
+
+This is WIP.
+
+
+
+### How to run
+
+
