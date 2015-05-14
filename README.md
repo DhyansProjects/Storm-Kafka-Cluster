@@ -4,6 +4,10 @@
 This is my First Vagrant Project .I've used ansible as provisioner .
 
 ### How to run
+Download this code to your local machine ..
+by clicking on the download as zip button on the right ..
+or git clone the http url you see in the top .
+
 I have below plugins installed
 
 Plugin installation command :
