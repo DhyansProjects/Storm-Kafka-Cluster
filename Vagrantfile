@@ -21,7 +21,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     'node-1' => "192.168.50.100",
     'node-2' => "192.168.50.101",
     'node-3' => "192.168.50.102",
-    'node-4' => "192.168.50.103"
+   # 'node-4' => "192.168.50.103"
   }
 
   nodes.each_with_index do |(short_name, ip), idx|
